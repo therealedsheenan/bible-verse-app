@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "antd-mobile": "^2.1.6",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "expo": "^25.0.0",
     "react": "16.2.0",
     "react-native": "0.52.0"
